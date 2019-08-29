@@ -1,0 +1,7 @@
+yum install git  # if git is not installed on system
+mkdir <repository name>
+  INSIDE REPO :
+  git init
+  git remote add <git repo url>
+  git pull origin master
+  git push origin master
